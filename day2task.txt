@@ -1,0 +1,15 @@
+write a blog on the difference between document and window object in JavaScript
+
+Window:
+
+>The window is the first thing that gets loaded into the browser.
+
+>This window object has the majority of the properties like length, innerHeight, name, open, close, moveTo, resize etc.
+
+>Window is the global object.
+
+The document:
+
+>The document object is your html, php, or other document that will be loaded into the browser.
+
+>The document actually gets loaded inside the window object and has properties available to it like title, URL, cookie and all properties related to DOM.
